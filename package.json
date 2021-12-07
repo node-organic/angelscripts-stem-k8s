@@ -1,0 +1,32 @@
+{
+  "name": "angelscripts-k8s",
+  "version": "0.0.0",
+  "description": "[organic-stem-skeleton v3](https://github.com/node-organic/organic-stem-skeleton) based k8s related utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT",
+  "dependencies": {
+    "file-exists": "^5.0.1",
+    "organic-dna-branches": "^1.0.0",
+    "organic-dna-cells-info": "^3.0.1",
+    "organic-dna-repo-loader": "^2.1.1",
+    "organic-stem-skeleton-find-root": "^2.0.1",
+    "p-iteration": "^1.1.8",
+    "yaml": "^1.10.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-standard": "^16.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-organic/angelscripts-stem-k8s.git"
+  },
+  "bugs": {
+    "url": "https://github.com/node-organic/angelscripts-stem-k8s/issues"
+  },
+  "homepage": "https://github.com/node-organic/angelscripts-stem-k8s#readme"
+}

@@ -1,0 +1,7 @@
+{
+  "extends": "standard",
+  "rules": {
+    "comma-dangle": [0],
+    "camelcase": [0]
+  }
+}
